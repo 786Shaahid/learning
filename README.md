@@ -2,9 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Hosted Link
+### Hosted Link
 
 [hoisted-link](https://main--homepage-shahid.netlify.app/)
+
+### Tech- 
+ 1. React js
+ 2. Bootstrap
+ 3. react-slick
+ 4. react-router-dom
+ 5. react-carousel.
+ 6. react-slider
+
 
 ### `npm start`
 
